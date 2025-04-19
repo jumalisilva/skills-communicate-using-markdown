@@ -8,7 +8,8 @@
 -->
 
 # Communicate using Markdown
-# Testing the Markdwon feature
+# Welcome to Markdown
+This is a sample markdown file.
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
